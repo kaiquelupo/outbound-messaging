@@ -1,0 +1,4 @@
+name: outbound-messaging
+runtime: nodejs
+description: Initiate conversations with your customers via any Twilio Messaging Channel, including SMS, WhatsApp, and Facebook Messenger
+main: src/resources
